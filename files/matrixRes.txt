@@ -1,0 +1,34 @@
+----------------------------------------------------
+size of array in this try: 100
+
+number of threads in this try: 1
+
+average time taken: 2789
+
+number of threads in this try: 2
+
+average time taken: 630
+
+number of threads in this try: 5
+
+average time taken: 534
+
+number of threads in this try: 10
+
+average time taken: 1050
+
+number of threads in this try: 20
+
+average time taken: 2077
+
+number of threads in this try: 50
+
+average time taken: 4634
+
+number of threads in this try: 100
+
+average time taken: 8622
+
+number of threads in this try: 150
+
+average time taken: 12744
